@@ -17,3 +17,7 @@ Travlr is een applicatie die het hun gebruikers mogelijk maakt om op een eenvoud
  Op deze eenvoudige manier kan je je vrienden en familie op de hoogte houden van je heerlijke vakantie.
 
 **Geniet ervan!**
+
+__________________
+
+**Ontwikkelaars:** Nick Verstocken & Jens De Corte
